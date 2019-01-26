@@ -1,0 +1,5 @@
+﻿
+interface WatchDogInterface
+{
+	bool hasTriggered ();
+}

@@ -1,19 +1,19 @@
 # Roadmap
 - Unity aufsetzen `[done]`
-- Simple Raum Design
-	- Light-Switch
-	- Fernseher
-	- Bett
+- Simple Raum Design `[done]`
+	- Light-Switch `[done]`
+	- Fernseher `[done]`
+	- Bett `[done]`
 
 - Raum interaktiv
 - Core Game Mechanic
-	- Feste ToDo's
-		- Licht aus (finish event)
-		- Fernseher ausschalten
-		- Wecker stellen
+	- Feste ToDo's `[done]`
+		- Licht aus (finish event) `[done]`
+		- Fernseher ausschalten `[done]`
+		- Wecker stellen `[an/aus done]`
 
-	- Check if all ToDo's have been checked
-	- Show success/failure
+	- Check if all ToDo's have been checked `[done]`
+	- Show success/failure `[done]`
 
 - Generate Noise
 	- prettify room
